@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+
+input,textarea {
+  @apply mt-3 w-full h-[70px] text-base rounded-md p-2 text-black;
+}
