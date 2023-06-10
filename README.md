@@ -43,23 +43,24 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-https://www.kapwing.com/videos/6484abf1073035001138ea27
-👉🏿<img src='https://www.kapwing.com/videos/6484abf1073035001138ea27' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Here is a video walkthrough of myself documenting the features within this app.
+https://www.kapwing.com/videos/6484abf1073035001138ea27
+>
 
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
+Some of the challenges I faced during this project was working with supabase as this was my first time working this and it was a new tool for me. However, once i got used to it I learned how to interact with its features such as creating tables and editing rows and columns like making a column unique and such and it was overall a fun expereience. Other challenges was data validation as I wanted to implement features outside of this project that would enable a user to validate certain fields of the form. For example, if there was nothing in the form field I would want it to invalidate the submission and such. This was important because when working on future projects its important to ensure integreity and consitency of data and validation is an important skill to learn. I spend the majority of this project time on researching and learning data validation which helped me understood this concept better so I can apply it on future projects. Some minor issues are creating env file and implenting them since it is different in vite than react becasue I learned that you have to use meta and not just the process.env and lastly another minor issue was error handling in displaying error messages. Overall I've learned a lot from this project. 
+
+
+
+
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright [👉🏿 2023] [👉🏿 Haseeb Chaudhury]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
