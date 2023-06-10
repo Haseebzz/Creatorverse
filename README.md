@@ -36,8 +36,8 @@ The following **additional** features are implemented:
  
   - [✔] Used tailwindcss for styling and website is responsive
   - [✔] Implemented a feature that when a user enters a blank form when creating a creator it will not allow them
-  - to create as it will prompt them to fill all fields. Also, it invalidates urls that are not correct and implemented a feature
-  - such that a user must provide at least 1 of the 4 social media urls to their creator. These same features are presented when editing a creator
+  to create as it will prompt them to fill all fields. Also, it invalidates urls that are not correct and implemented a feature
+  such that a user must provide at least 1 of the 4 social media urls to their creator. These same features are presented when editing a creator
   - [✔] Also, when a user is trying to add a creator they can't add the same urls of an existing creator within the database
   
 ## Video Walkthrough
